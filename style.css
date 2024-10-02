@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+    background-blend-mode: color-dodge;
+    background-image: -moz-linear-gradient(red);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  }
+  
+  li a {
+    display: block;
+  }
+  
+ 
+  
